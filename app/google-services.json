@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "960164762192",
+    "firebase_url": "https://visit-pakistan-f7341.firebaseio.com",
+    "project_id": "visit-pakistan-f7341",
+    "storage_bucket": "visit-pakistan-f7341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960164762192:android:f24878ef4e5357cc61f755",
+        "android_client_info": {
+          "package_name": "com.ekorydes.bscsafirebase240320"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960164762192-j0hdmies4iiir9im7i9676edkdbqd2g7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekorydes.bscsafirebase240320",
+            "certificate_hash": "c53c8e58bad1a9ea985635a327f520f78c332dbb"
+          }
+        },
+        {
+          "client_id": "960164762192-so2e1vr3e7ih8jeienhbpp9ibg0aqi0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWqSFMQsijRtUjQaejamNoixZeE66K_yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960164762192-so2e1vr3e7ih8jeienhbpp9ibg0aqi0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960164762192:android:a9c22b91eeab656b61f755",
+        "android_client_info": {
+          "package_name": "com.ekorydes.labbscs6thc20032020drawerlayoutfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960164762192-j5eiuj2ch1ddhgs2s4mitu4usjgg6l0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekorydes.labbscs6thc20032020drawerlayoutfirebase",
+            "certificate_hash": "c53c8e58bad1a9ea985635a327f520f78c332dbb"
+          }
+        },
+        {
+          "client_id": "960164762192-so2e1vr3e7ih8jeienhbpp9ibg0aqi0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWqSFMQsijRtUjQaejamNoixZeE66K_yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960164762192-so2e1vr3e7ih8jeienhbpp9ibg0aqi0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
